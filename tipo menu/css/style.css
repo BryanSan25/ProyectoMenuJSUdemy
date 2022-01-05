@@ -67,8 +67,11 @@ nav .container-info-menu-activo {
     background-color: rgb(4, 0, 39);
     border: .5px solid rgb(17, 17, 63);
 }
-.sub-cursos-movil-activo {
+.sub-cursos-menu-movil, .sub-cursos-menu-movil-2-bootcamp  {
     display: none;
+}
+.sub-cursos-movil-activo {
+    display: block;
 }
 .sub-cursos-menu-movil-2-bootcamp div {
     padding: 18px 40px;
